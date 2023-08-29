@@ -16,12 +16,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Baseball
 
-- Thing 2
+- Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Eating/ Drinking different foods and drinks
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/08/29
