@@ -4,13 +4,13 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Man3504
 
-- Course 2
+- ACG2020
 
-- Course 3
+- COP2073
 
-- Course 4
+- EGS3504
 
 **Hobbies:**
 
