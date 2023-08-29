@@ -1,6 +1,6 @@
 ## Brandon Connell
 
-### Term Year 
+### Fall 2023 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
