@@ -4,14 +4,6 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Man3504
-
-- ACG2020
-
-- COP2073
-
-- EGS3504
-
 |Prefix   | Number   | Name                                              | Credits |
 |:-------:|:--------:|:-------------------------------------------------:|:-------:|
 | **MAN** | **3504** | _Intro to Operations and supply chain management_ | 3       |
@@ -19,6 +11,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 | **COP** | **2073** | _Foundations of data analytics_                   | 3       |
 | **EGS** | **3504** | _Engineering & technology project management_     | 3       |
 
+
+Changes can be seen on [Github](https://github.com/Bconnell37/practice-repo)
+
+Below is a sample of code to produce the table from above:
+
+![](Table.png "Table")
 
 **Hobbies:**
 
