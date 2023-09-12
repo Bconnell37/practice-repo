@@ -12,12 +12,6 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 | **EGS** | **3504** | _Engineering & technology project management_     | 3       |
 
 
-Changes can be seen on [Github](https://github.com/Bconnell37/practice-repo)
-
-Below is a sample of code to produce the table from above:
-
-![](Table.png "Table")
-
 **Hobbies:**
 
 I am _passionate about_: 
